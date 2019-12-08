@@ -32,7 +32,7 @@
     "http": "0.0.0",
     "jquery": "^3.3.1",
     "material-design-icons": "^3.0.1",
-    "mongoose": "^5.3.14",
+    "mongoose": "^5.7.5",
     "ng": "0.0.0",
     "path": "^0.12.7",
     "rxjs": "^6.0.0",
